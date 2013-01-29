@@ -1,4 +1,4 @@
 remote
 ======modified
-modificado
+modificado con conflito en master
 modificado master branch
