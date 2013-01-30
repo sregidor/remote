@@ -1,4 +1,4 @@
-si conflicto remoto
+si conflicto remoto de la buena
 remote
 ======modified
 modificado
