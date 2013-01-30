@@ -1,4 +1,4 @@
-no conflicto remoto
+si conflicto remoto
 remote
 ======modified
 modificado
