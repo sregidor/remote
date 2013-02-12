@@ -1,4 +1,4 @@
-no conflicto remoto
+xseralo no conflicto remoto
 remote
 ======modified
 modificado
