@@ -1,4 +1,7 @@
-xseralo no conflicto remoto
+xseralo
+juanjo
+xferjav -- Javi!
+no conflicto remoto
 remote
 ======modified
 modificado
