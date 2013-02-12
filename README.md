@@ -8,7 +8,6 @@ xdenpat
 xseralo
 juanjo
 xferjav -- Javi!
-xeminue
 no conflicto remoto
 remote
 modificado
