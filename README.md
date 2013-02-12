@@ -1,3 +1,4 @@
+juanjo juanjose
 XRODALO (gromenagüer)
 xsamdel
 xdenpat
