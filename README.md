@@ -1,4 +1,4 @@
-xalejpe
+xalejpe xsamdel juanjo juanjose xeminue
 xjosflr
 juanjo juanjose
 juanjo juanjose xeminue
@@ -8,7 +8,6 @@ xdenpat
 xseralo
 juanjo
 xferjav -- Javi!
-xeminue
 no conflicto remoto
 remote
 modificado
