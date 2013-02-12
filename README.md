@@ -1,5 +1,9 @@
 juanjo juanjose
-
+XRODALO (gromenagüer)
+xsamdel
+xdenpat
+xseralo
+juanjo
 xferjav -- Javi!
 no conflicto remoto
 remote
