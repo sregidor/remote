@@ -1,6 +1,9 @@
 XRODALO (gromenagüer)
+xseralo
+juanjo
+xferjav -- Javi!
+no conflicto remoto
 remote
-======modified
 modificado
 modificado branch nueva
 modificado para remoto
