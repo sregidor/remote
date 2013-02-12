@@ -1,4 +1,4 @@
-juanjo
+juanjo juanjose
 
 xferjav -- Javi!
 no conflicto remoto
